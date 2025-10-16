@@ -1,0 +1,14 @@
+- [ ] Logic
+- [ ] Predicates
+- [ ] Proof: direct, contrapositive, and contradiction, induction, and summation
+- [ ] Sets
+- [ ] Sequences
+- [ ] Power sets
+- [ ] Permutations
+- [ ] Product notation
+- [ ] Vectors
+- [ ] Norms
+- [ ] Matrices
+- [ ] Regular language
+- [ ] Finite State Automata
+- [ ] Turing Machines

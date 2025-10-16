@@ -1,0 +1,13 @@
+- [ ] Intro to algorithms
+- [ ] Intro to programming languages
+- [ ] Computational models for imperative programming
+- [ ] Variables
+- [ ] Arrays
+- [ ] Sequencing
+- [ ] Control flow
+- [ ] Jumps
+- [ ] (Un)structured programming
+- [ ] Structured programming
+- [ ] Asymptotic complexity
+- [ ] Procedures
+- [ ] Recursion
