@@ -1,0 +1,27 @@
+{
+  "comments": {
+    "2025/Intro-to-Programming/Class-Structure.md": {
+      "file-comment-1760725419902": {
+        "id": "file-comment-1760725419902",
+        "text": "__virtual_highlight_1760725419902__",
+        "filePath": "2025/Intro-to-Programming/Class-Structure.md",
+        "fileType": "md",
+        "displayText": "File comment",
+        "isVirtual": true,
+        "position": 0,
+        "paragraphOffset": 0,
+        "paragraphId": "2025/Intro-to-Programming/Class-Structure.md#^virtual-1760725419902",
+        "createdAt": 1760725419902,
+        "updatedAt": 1760725440664,
+        "comments": [
+          {
+            "id": "comment-1760725440664-hzthsi8xz",
+            "content": "Private is only allowed to be used inside this class",
+            "createdAt": 1760725440664,
+            "updatedAt": 1760725440664
+          }
+        ]
+      }
+    }
+  }
+}

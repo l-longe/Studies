@@ -1,0 +1,4 @@
+- teamwork
+- time management
+- organisation
+- 

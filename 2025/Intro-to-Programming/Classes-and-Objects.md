@@ -23,8 +23,7 @@
 # Methods 
 - **The things that objects can do!**
 - Operations of behaviours of classes that can be invoked.
-- They may have *parameters* to pass additional info needed to perform certain behaviours.
-- Constructors are also methods and may have parameters too.
+
 ## Constructor Methods
 - Something that an instance of a class can do to achieve a particular initialisation of an object. Used to create new objects.
 ## Constructors vs Methods
@@ -52,8 +51,14 @@ public class Main {
 
 ```
 # Parameters
+- Methods may have *parameters* to pass additional info needed to perform certain behaviours.
+- They have a specific type each, and the value given for that parameter must be of the appropriate type
+- Constructors are also methods and may have parameters too.
 
 # Data Types
+- Each field has a **type** specified for it
+- Each parameter has a **type** specified for it
+- Int, String
 
 # Examples
 

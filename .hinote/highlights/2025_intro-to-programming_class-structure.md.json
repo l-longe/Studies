@@ -1,0 +1,21 @@
+{
+  "version": "2.0",
+  "lastModified": 1760905931360,
+  "highlights": {
+    "file-comment-1760725419902": {
+      "text": "__virtual_highlight_1760725419902__",
+      "position": 0,
+      "created": 1760725419902,
+      "updated": 1760725440664,
+      "paragraphOffset": 0,
+      "comments": [
+        {
+          "id": "comment-1760725440664-hzthsi8xz",
+          "content": "Private is only allowed to be used inside this class",
+          "created": 1760725440664,
+          "updated": 1760725440664
+        }
+      ]
+    }
+  }
+}

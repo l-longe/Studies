@@ -1,5 +1,5 @@
 # Introducing programming languages
-- A programming language gives us precise rules for telling a computer what to do i.e. writing programms
+- A programming language gives us precise rules for telling a computer what to do i.e. writing programs
 - We want to make it easy to write fast, correct, and readable.
 # What is a programming language?
 
